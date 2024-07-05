@@ -9,8 +9,6 @@ This project aims to classify patient conditions based on drug reviews using Nat
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Authors](#authors)
-- [License](#license)
 
 ## Description
 
